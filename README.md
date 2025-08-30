@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Bianca!
 
-<!--
-**BiaAlvesP/BiaAlvesP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💼 Estagiária na **Accenture**  
+🔍 Interessada em **QA, Automação e Design**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+💻 **Linguagens:** Java, JavaScript  
+⚙️ **Frameworks:** Spring Boot, React  
+🗄️ **Banco de dados:** MySQL, PostgreSQL  
+🧪 **Testes & QA:** JUnit, Postman, ISTQB Foundation (em estudo)  
+
+---
+
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+
+![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaAlvesP&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaAlvesP&layout=compact&theme=dracula)
+
+</div>
+
+---
+
+## 📫 Onde me encontrar
+- 🌐 [LinkedIn](www.linkedin.com/in/bianca-alves-pinheiro-95b8522a7)  
+- ✉️ Email: **biaapinheiro09@email.com**
+
+---
+
+✨ Em constante evolução, unindo prática e aprendizado para me tornar uma profissional cada vez melhor.
