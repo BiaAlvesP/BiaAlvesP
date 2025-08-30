@@ -16,12 +16,12 @@
 
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
-
-![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaAlvesP&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaAlvesP&layout=compact&theme=dracula)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaAlvesP&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaAlvesP&layout=compact&theme=tokyonight" />
 </div>
+
 
 ---
 
